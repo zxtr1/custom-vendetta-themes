@@ -1,50 +1,123 @@
 {
-    "name": "ZX SPECIAL",
-    "description": "An md3 icon pack wid a red colour customs",
+    "name": "zx.tr",
+    "description": "red md3",
     "authors": [
         {
             "name": "zx.tr",
             "id": "780054631542685747"
         }
     ],
-    "KEYBOARD": [
-        "#2c274a"
-    ],
-    "CHANNEL_ICON": [
-        "#7B68EE"
-    ],
-    "CHAT_BACKGROUND": [
-        "#0f0d1e"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-        "#3d317d"
-    ],
-    "SPOILER_REVEALED_BACKGROUND": [
-        "#4e3fa1"
-    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FF3A3A"
+        ],
+        "HEADER_SECONDARY": [
+            "#FF3A3A"
+        ],
+        "TEXT_NORMAL": [
+            "#FFC1C1"
+        ],
+        "TEXT_MUTED": [
+            "#FF8282"
+        ],
+        "TEXT_LINK": [
+            "#FF4545"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFA1A1"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FF6969"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#FF5252"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1F1F1F"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#232323"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#232323"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1F1F1F"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FF3A3A"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#232323"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#232323"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#232323"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#232323"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#434343"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#242424"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#FF6666"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#FF5757"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#2E2E2E"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#FFA4A4"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FF7992"
+        ],
+        "TEXT_DANGER": [
+            "#FC0E61"
+        ],
+        "KEYBOARD": [
+            "#232323"
+        ],
+        "CHANNEL_ICON": [
+            "#FF3A3A"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1F1F1F"
+        ]
+    },
     "rawColors": {
-        "PRIMARY_100": "#7b68ee",
-        "PRIMARY_200": "#362e67",
-        "PRIMARY_300": "#5b34e0",
-        "PRIMARY_360": "#7b68ee",
-        "PRIMARY_400": "#7b68ee",
-        "PRIMARY_500": "#362e67",
-        "PRIMARY_600": "#0f0d1e",
-        "PRIMARY_630": "#1f1a3b",
-        "PRIMARY_660": "#1f1a3b",
-        "PRIMARY_700": "#0f0d1e",
-        "PRIMARY_800": "#0f0d1e",
-        "BRAND_260": "#6c5bd0",
-        "BRAND_360": "#7b68ee",
-        "BRAND_500": "#6c5bd0",
-        "BRAND_560": "#7b68ee",
-        "RED_400": "#FC0E61",
-        "YELLOW_300": "#7b68ee",
-        "GREEN_360": "#7b68ee",
-        "WHITE_500": "#FFFFFF"
+        "PRIMARY_100": "#FFC1C1",
+        "PRIMARY_200": "#FFC1C1",
+        "PRIMARY_300": "#FFC1C1",
+        "PRIMARY_360": "#FF3A3A",
+        "PRIMARY_400": "#FF3A3A",
+        "PRIMARY_500": "#FF235D",
+        "PRIMARY_600": "#1F1F1F",
+        "PRIMARY_630": "#232323",
+        "PRIMARY_660": "#232323",
+        "PRIMARY_700": "#404040",
+        "PRIMARY_800": "#212121",
+        "BRAND_260": "#FF3A3A",
+        "BRAND_360": "#FF3A3A",
+        "BRAND_500": "#FF3A3A",
+        "BRAND_560": "#FF9A9A",
+        "WHITE_500": "#FF9A9A",
+        "YELLOW_300": "#FF1875",
+        "GREEN_360": "#FF1239",
+        "RED_400": "#FC0E61"
     },
     "plus": {
         "version": 0,
         "customOverlays": true,
-        "iconpack": "md3"}
+        "iconpack": "md3"
+    },
+    "spec": 2
     }
